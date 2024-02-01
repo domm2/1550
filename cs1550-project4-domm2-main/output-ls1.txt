@@ -1,0 +1,2 @@
+drwxr-xr-x 2 root root 0 .
+drwxr-xr-x 5 dom41 domain users 22:19
